@@ -3,7 +3,7 @@
 
 CodePen URL : https://codepen.io/bobyin22/pen/LYraMjK
 
-GitHub：
+GitHub：https://bobyin22.github.io/buyhouse591/buyhouse591/dist/index.html#
 
 網頁說明：
 
